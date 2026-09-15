@@ -1,0 +1,30 @@
+.alert-text {
+  color: red;
+}
+
+#title {
+  background-color: aqua;
+}
+
+.read,
+.unread {
+  color: white;
+}
+
+.read {
+  background-color: blue;
+}
+
+.unread {
+  background-color: orange;
+}
+.subsection.header {
+  color: black;
+}
+
+.text-file-example {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+/* Add CSS Styling */
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+.oddEle {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  color: black;
+}
+
+#four {
+  background-color: lightgreen;
+  color: black;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.OddThree {
+  font-size: 24px;
+}
